@@ -37,7 +37,7 @@ img{
     box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.5);
 }
 
-@media (max-width: 600px){
+@media (max-width: 800px){
     img{
         width: 300px;
         height: 300px;
